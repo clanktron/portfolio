@@ -1,0 +1,7 @@
+{
+    "gitlab.repositories": {
+        "/Users/clayton/projects/web/portfolio": {
+            "preferredRemoteName": "gitlab"
+        }
+    }
+}
