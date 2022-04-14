@@ -99,6 +99,7 @@ iframe {
         display: none;
     }
 }
+
 section.hero {
     background-color: #0e74da;
     padding: 0;
@@ -134,6 +135,7 @@ section.hero {
         }
     }
 }
+
 section.stack-section {
     background: #20272E;
     color: white;
@@ -149,6 +151,7 @@ section.stack-section {
         ul.stacks-list {
             margin-top: -1em;
             padding-left: .1em;
+            padding-top: 1rem;
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(19rem, 1fr));
         
@@ -175,6 +178,7 @@ section.stack-section {
         }
     }
 }
+
 section.portfolio-section {
     background: #03468a;
     color: white;
